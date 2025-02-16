@@ -1,4 +1,4 @@
-import logo from '../Images/logo.png'
+import logo from '../Images/Logo.png'
 import TopBar from './TopBar'
 
 function Navbar() {
